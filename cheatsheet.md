@@ -10,6 +10,8 @@ I didnt create any of these cheatsheets, so much love and appreciation to the au
 
 Gerry's Cheatsheets Compilation
 
+- OWASP Compilation of Cheat Sheets [OWASP Compilation of Cheat Sheets](https://cheatsheetseries.owasp.org/)
+
 - Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. [Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation)
 
 - Malware analysis tools and resources. [Malware analysis tools and resources](https://github.com/rshipp/awesome-malware-analysis)
